@@ -1,6 +1,9 @@
 <img src="https://komarev.com/ghpvc/?username=devistrap&label=Profile%20views&color=0e75b6&style=flat" alt="devistrap" />
-
-### Hi there 👋
+<h1>
+Bart Nieman <br>
+intern BillPay implementation engineer @ serrala<br>
+fuck yii
+  </h1>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,git,vscode,nodejs,postman,azure,css,html,js,mysql,php,postman,py,react,stackoverflow,tailwind,vite," />
