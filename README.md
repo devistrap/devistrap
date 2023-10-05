@@ -1,19 +1,23 @@
 <img src="https://komarev.com/ghpvc/?username=devistrap&label=Profile%20views&color=0e75b6&style=flat" alt="devistrap" />
 
 ### Hi there 👋
-
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,git,vscode,nodejs,postman,azure,css,html,js,mysql,php,postman,py,react,stackoverflow,tailwind,vite," />
+  </a>
+</p>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devistrap&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-<!--
-**devistrap/devistrap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="left">✍️ Dev Quote ✍️</h2>
 
-Here are some ideas to get you started:
+<div align=left>
+  <img width=400 src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical'/>
+</div>
+<h2 align="left">😂 Dev Meme 😂</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align=left>
+  <img width=400 src='https://randommeme-five.vercel.app/'/>
+</div>
+
+
+
+<br/>
