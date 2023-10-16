@@ -9,7 +9,7 @@ fuck yii
     <img src="https://skillicons.dev/icons?i=github,git,vscode,nodejs,postman,azure,css,html,js,mysql,php,postman,py,react,stackoverflow,tailwind,vite," />
   </a>
 </p>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=devistrap&show_icons=true&hide_border=true&&count_private=false&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=devistrap&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <h2 align="left">✍️ Dev Quote ✍️</h2>
 
 <div align=left>
