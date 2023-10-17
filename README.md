@@ -2,7 +2,7 @@
 <h1>
 Bart Nieman <br>
 intern BillPay implementation engineer @ serrala<br>
-fuck yii
+
   </h1>
 <p align="left">
   <a href="https://skillicons.dev">
