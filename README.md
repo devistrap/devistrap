@@ -1,7 +1,7 @@
 <img src="https://komarev.com/ghpvc/?username=devistrap&label=Profile%20views&color=0e75b6&style=flat" alt="devistrap" />
 <h1>
 Bart Nieman <br>
-intern BillPay implementation engineer @ serrala<br>
+intern Bill Pay implementation engineer @ serrala<br>
 
   </h1>
 <p align="left">
