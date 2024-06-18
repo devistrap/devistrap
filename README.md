@@ -1,6 +1,6 @@
 <img src="https://komarev.com/ghpvc/?username=devistrap&label=Profile%20views&color=0e75b6&style=flat" alt="devistrap" />
 <h1>
-Bart Nieman <br>
+Devistrap <br>
 
   </h1>
 <p align="left">
